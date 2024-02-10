@@ -1,6 +1,4 @@
 # PyPassGen
-A lightweight Python password generator offering customizable and secure password creation.
-
 This Python-based password generator offers a straightforward solution for creating secure passwords tailored to user preferences. Developed solely using Python and leveraging the built-in random library, this app ensures randomness and security in password generation.
 
 Functionality:
